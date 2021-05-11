@@ -10,7 +10,7 @@ const Home = () => {
         className='absolute object-cover w-full height-full'
       />
       <section className='relative flex justify-center min-h-screen pt-12 lg:pt-64 px-8'>
-        <h1 className='text-3xl text-purple-100 font-bold cursive leading-none lg:leading-snug home-name'>
+        <h1 className=' text-2xl lg:text-3xl text-purple-100 font-bold cursive leading-none lg:leading-snug home-name'>
           CHrIs GraDy
         </h1>
       </section>
